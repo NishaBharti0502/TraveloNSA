@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,600&display=swap');
+.form-div{
+margin:50px auto 50px;
+padding: 25px 15px 10px 15px;
+border: 1px solid #80ced7;
+font-size: 1.1em;
+font-family: 'lora',serif ;
+border-radius: 5px;
+color:white;
+}
+.form-control:focus{
+box-shadow: none;
+}
+form p{
+font-size: .89em;
+}
+.form-div-login{
+margin-top:100px;}
+.errors{color:lime;}
+body {
+background: 
+url(https://images.wallpaperscraft.com/image/dubai_night_evening_sunset_orange_black_palm_trees_water_light_reflection_58546_256
+0x1440.jpg) no-repeat ;
+background-size:cover;
+}
