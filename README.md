@@ -1,5 +1,5 @@
 # TraveloNSA
-This is my final year diploma project. In this project We can choose Packages, we can book the flight tickets, in this project payment gateway is also added for ticket booking charge, we can contact  customer supports etc.
+This is my final year diploma project.It is a website that allows users to conveniently select personalized packages, book flight tickets, and seamlessly process payments through an integrated gateway. Additionally, the website features a robust customer support system to ensure a delightful travel experience for all users.
 
 Here is the some screenshots of my project.
 
